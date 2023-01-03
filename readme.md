@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am boring.**
 
--	:beginner: Here is my simple <a href="https://sour-it.github.io/sourabh.github.io/"> Portfolio </a> Website.
+-	:beginner: Here is my simple <a href="https://sour-it.github.io/"> Portfolio </a> Website.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
