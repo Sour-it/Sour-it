@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kumarsourabh7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarsourabh7" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sour-it&show_icons=true&locale=en&layout=compact" alt="sour-it" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sour-it&show_icons=true&locale=en&layout=compact" alt="sour-it" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sour-it&show_icons=true&locale=en" alt="sour-it" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sour-it&show_icons=true&locale=en" alt="sour-it" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sour-it&" alt="sour-it" /></p>
